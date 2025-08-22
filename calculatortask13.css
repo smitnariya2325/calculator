@@ -1,0 +1,188 @@
+.calculatordivmaindiv13 {
+    width: 250px;
+    margin: 50px auto;
+    height: 330px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: darkgrey;
+}
+
+#text {
+    width: 242px;
+    height: 50px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 1px;
+}
+
+.button1234divmain13 {
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-around;
+}
+
+.button5678divmain13 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button9101112divmaindiv13 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button0131415divmaindiv13 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttn1 {
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn2 {
+    width: 50px;
+    height: 50px;
+     font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn3 {
+    width: 50px;
+    height: 50px;
+     font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn4 {
+    width: 50px;
+    height: 50px;
+     font-size: 16px;
+    background-color: orange;
+    color: black;
+    border-radius: 5px;
+}
+
+.buttn5 {
+    width: 50px;
+    height: 50px;
+    margin-top: 13px;
+     font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn6 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn7 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn8 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+     background-color: orange;
+    color: black;
+    border-radius: 5px;
+    
+}
+
+.buttn9 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttn10 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.buttn11 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.buttn12 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+     background-color: orange;
+    color: black;
+    border-radius: 5px;
+}
+.buttn0 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+    background-color: orange;
+    color: black;
+    border-radius: 5px;
+}
+.buttn13 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+   background-color: orange;
+    color: black;
+    border-radius: 5px;
+}
+.buttn14 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+     background-color: orange;
+    color: black;
+    border-radius: 5px;
+}
+.buttn15 {
+    width: 50px;
+    height: 50px;
+     margin-top: 13px;
+      font-size: 16px;
+     background-color: red;
+    color: black;
+    border-radius: 5px;
+}
